@@ -1,0 +1,1787 @@
+[
+  {
+    "slug": "must-see",
+    "title": "Must see",
+    "items": [
+      {
+        "title": "History of Design",
+        "title_ru": "История дизайна",
+        "year": "2010",
+        "desc": "Базовый курс по истории промышленного и графического дизайна XX века, необходимый для понимания контекста профессии.",
+        "meta": [
+          "2010",
+          "Charlotte & Peter Fiell"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=история+дизайна+фиелл"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=история+дизайна+фиелл"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "История дизайна",
+        "title_ru": "История дизайна",
+        "year": "2011",
+        "desc": "История дизайна с акцентом на отечественную школу, ВХУТЕМАС и советский проектный контекст.",
+        "meta": [
+          "2011",
+          "Александр Лаврентьев"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=история+дизайна+лаврентьев"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=история+дизайна+лаврентьев"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Дизайн как он есть",
+        "title_ru": "Дизайн как он есть",
+        "year": "2007",
+        "desc": "Ключевая книга о роли дизайна в городской среде, политике и повседневной жизни, формирующая критическое мышление.",
+        "meta": [
+          "2007",
+          "Вячеслав Глазычев"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн+как+он+есть+глазычев"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн+как+он+есть+глазычев"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Design of Everyday Things",
+        "title_ru": "Дизайн привычных вещей",
+        "year": "1988",
+        "desc": "User-centered design, психология использования вещей",
+        "meta": [
+          "1988",
+          "Don Norman"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн+привычных+вещей"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=дизайн+привычных+вещей"
+          },
+          {
+            "label": "Wildberries",
+            "href": "https://www.wildberries.ru/catalog/0/search.aspx?search=дизайн+привычных+вещей"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн+привычных+вещей"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=дизайн+привычных+вещей"
+          },
+          {
+            "label": "Wildberries",
+            "href": "https://www.wildberries.ru/catalog/0/search.aspx?search=дизайн+привычных+вещей"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Thinking with Type",
+        "title_ru": "Новая типографика",
+        "year": "2004",
+        "desc": "Практическое введение в типографику, модульные системы",
+        "meta": [
+          "2004",
+          "Ellen Lupton"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=новая+типографика+лаптон"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=новая+типографика"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=новая+типографика+лаптон"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=новая+типографика"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Grid Systems in Graphic Design",
+        "title_ru": "Модульные системы в графическом дизайне",
+        "year": "1961",
+        "desc": "Швейцарский интернациональный стиль, структурирование визуального",
+        "meta": [
+          "1961",
+          "Josef Müller-Brockmann"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=модульные+системы+брокманн"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=модульные+системы"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=модульные+системы+брокманн"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=модульные+системы"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Less and More: The Design Ethos of Dieter Rams",
+        "title_ru": "Меньше, но лучше: Дизайн-этика Дитера Рамса",
+        "year": "2009",
+        "desc": "10 принципов хорошего дизайна, минимализм, Braun",
+        "meta": [
+          "2009",
+          "Gestalten"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дитер+рамс"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=дитер+рамс"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дитер+рамс"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=дитер+рамс"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Don't Make Me Think",
+        "title_ru": "Не заставляйте меня думать",
+        "year": "2000",
+        "desc": "Практическое руководство по юзабилити, здравый смысл в веб-дизайне",
+        "meta": [
+          "2000",
+          "Steve Krug"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=не+заставляйте+меня+думать"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=не+заставляйте+меня+думать"
+          },
+          {
+            "label": "Wildberries",
+            "href": "https://www.wildberries.ru/catalog/0/search.aspx?search=не+заставляйте+меня+думать"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=не+заставляйте+меня+думать"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=не+заставляйте+меня+думать"
+          },
+          {
+            "label": "Wildberries",
+            "href": "https://www.wildberries.ru/catalog/0/search.aspx?search=не+заставляйте+меня+думать"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Design as Art",
+        "title_ru": "Дизайн как искусство",
+        "year": "1966",
+        "desc": "Эссе о роли дизайна в обществе, границы искусства и дизайна",
+        "meta": [
+          "1966",
+          "Bruno Munari"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн+как+искусство+мунари"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=дизайн+как+искусство"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн+как+искусство+мунари"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=дизайн+как+искусство"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Universal Principles of Design",
+        "title_ru": "Универсальные принципы дизайна",
+        "year": "2003",
+        "desc": "125 ключевых принципов дизайна с примерами и иллюстрациями",
+        "meta": [
+          "2003",
+          "William Lidwell, Kritina Holden, Jill Butler"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=универсальные+принципы+дизайна"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=универсальные+принципы+дизайна"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=универсальные+принципы+дизайна"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=универсальные+принципы+дизайна"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "history",
+    "title": "История и теория",
+    "items": [
+      {
+        "title": "О дизайне",
+        "title_ru": "О дизайне",
+        "year": "2012",
+        "desc": "Сборник статей и выступлений о теории и критике дизайна, роли дизайнера в обществе.",
+        "meta": [
+          "2012",
+          "Вячеслав Глазычев"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=о+дизайне+глазычев"
+          }
+        ],
+        "category": "history",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=о+дизайне+глазычев"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Статьи и интервью",
+        "title_ru": "Статьи и интервью",
+        "year": "2014",
+        "desc": "Тексты о концептуальном дизайне, эксперименте и советской/российской дизайн-сцене.",
+        "meta": [
+          "2014",
+          "Дмитрий Азрикан"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дмитрий+азрикан+статьи+и+интервью"
+          }
+        ],
+        "category": "history",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дмитрий+азрикан+статьи+и+интервью"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Bauhaus",
+        "title_ru": "Баухаус",
+        "year": "2006",
+        "desc": "Полная история Баухауза, синтез искусства и ремесла",
+        "meta": [
+          "2006",
+          "Magdalena Droste"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=баухаус+дросте"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=баухаус"
+          }
+        ],
+        "category": "history",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=баухаус+дросте"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=баухаус"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Design History: Understanding Theory and Method",
+        "title_ru": "История дизайна: теория и методология",
+        "year": "2005",
+        "desc": "Методология исследования истории дизайна",
+        "meta": [
+          "2005",
+          "Hazel Conway"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=история+дизайна+конвей"
+          }
+        ],
+        "category": "history",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=история+дизайна+конвей"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "graphic",
+    "title": "Графический дизайн",
+    "items": [
+      {
+        "title": "Logo Modernism",
+        "title_ru": "Логотипы модернизма",
+        "year": "2015",
+        "desc": "6000+ логотипов модернистской эры 1940–1980",
+        "meta": [
+          "2015",
+          "Jens Müller"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=logo+modernism"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=logo+modernism"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Interaction of Color",
+        "title_ru": "Взаимодействие цвета",
+        "year": "1963",
+        "desc": "Классика колористики, восприятие цвета",
+        "meta": [
+          "1963",
+          "Josef Albers"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=взаимодействие+цвета+альберс"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=взаимодействие+цвета"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=взаимодействие+цвета+альберс"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=взаимодействие+цвета"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "A Designer's Art",
+        "title_ru": "Искусство дизайнера",
+        "year": "1985",
+        "desc": "Эссе и кейсы Пола Рэнда о логотипах, бренд-айдентике и визуальном мышлении.",
+        "meta": [
+          "1985",
+          "Paul Rand"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=искусство+дизайнера+пол+рэнд"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=искусство+дизайнера+пол+рэнд"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Vignelli Canon",
+        "title_ru": "Канон Виньелли",
+        "year": "2010",
+        "desc": "Правила и принципы дизайна от Массимо Виньелли",
+        "meta": [
+          "2010",
+          "Massimo Vignelli"
+        ],
+        "links": [
+          {
+            "label": "PDF (бесплатно)",
+            "href": "https://www.vignelli.com/canon.pdf"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "PDF (бесплатно)",
+          "href": "https://www.vignelli.com/canon.pdf"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": true
+      },
+      {
+        "title": "Making and Breaking the Grid",
+        "title_ru": "Создание и разрушение сетки",
+        "year": "2002",
+        "desc": "Практическое руководство по использованию модульных сеток",
+        "meta": [
+          "2002",
+          "Timothy Samara"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=making+breaking+grid"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=making+breaking+grid"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Graphic Design: The New Basics",
+        "title_ru": "Графический дизайн: Новые основы",
+        "year": "2008",
+        "desc": "Современный подход к базовым принципам графического дизайна",
+        "meta": [
+          "2008",
+          "Ellen Lupton, Jennifer Cole Phillips"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=graphic+design+new+basics"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=graphic+design+new+basics"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "A History of Graphic Design",
+        "title_ru": "История графического дизайна",
+        "year": "2019",
+        "desc": "Полная история графического дизайна с 1890 по сегодня",
+        "meta": [
+          "2019",
+          "Jens Müller"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=history+graphic+design+muller"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=history+graphic+design+muller"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "branding",
+    "title": "Брендинг",
+    "items": [
+      {
+        "title": "Designing Brand Identity",
+        "title_ru": "Айдентика бренда: руководство для команды",
+        "year": "2012",
+        "desc": "Пошаговый гид по созданию и поддержке бренд‑айдентики: от стратегии до внедрения.",
+        "meta": [
+          "2012",
+          "Alina Wheeler"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=designing+brand+identity+alina+wheeler"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=designing+brand+identity+alina+wheeler"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Brand Gap",
+        "title_ru": "Пропасть бренда",
+        "year": "2005",
+        "desc": "О том, как соединить стратегию бизнеса и визуальный образ бренда, чтобы отличаться на рынке.",
+        "meta": [
+          "2005",
+          "Marty Neumeier"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=пропасть+бренда+ниймайер"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=пропасть+бренда+ниймайер"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Branding in Five and a Half Steps",
+        "title_ru": "Брендинг в пять с половиной шагов",
+        "year": "2016",
+        "desc": "Визуально богатая книга о процессе разработки бренда: исследования, позиционирование, визуальный язык.",
+        "meta": [
+          "2016",
+          "Michael Johnson"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=branding+in+five+and+a+half+steps"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=branding+in+five+and+a+half+steps"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Identity Designed",
+        "title_ru": "Identity Designed",
+        "year": "2019",
+        "desc": "Кейс‑стади по визуальным айдентикам студий со всего мира, акцент на практических процессах брендинга.",
+        "meta": [
+          "2019",
+          "David Airey"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=identity+designed+david+airey"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=identity+designed+david+airey"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Building a StoryBrand",
+        "title_ru": "StoryBrand: бренд как история",
+        "year": "2017",
+        "desc": "Модель позиционирования бренда как понятной истории, которой легко «заразить» аудиторию.",
+        "meta": [
+          "2017",
+          "Donald Miller"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=building+a+storybrand"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=building+a+storybrand"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "typography",
+    "title": "Типографика",
+    "items": [
+      {
+        "title": "The Elements of Typographic Style",
+        "title_ru": "Основы стиля в типографике",
+        "year": "1992",
+        "desc": "Классический труд о типографике, история шрифтов, композиция текста",
+        "meta": [
+          "1992",
+          "Robert Bringhurst"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=основы+стиля+типографике"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=брингхёрст"
+          }
+        ],
+        "category": "typography",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=основы+стиля+типографике"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=брингхёрст"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Detail in Typography",
+        "title_ru": "Детали в типографике",
+        "year": "1996",
+        "desc": "Микротипографика, межбуквенные интервалы, удобочитаемость",
+        "meta": [
+          "1996",
+          "Jost Hochuli"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=detail+typography+hochuli"
+          }
+        ],
+        "category": "typography",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=detail+typography+hochuli"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Type Matters!",
+        "title_ru": "Шрифт имеет значение!",
+        "year": "2012",
+        "desc": "Практический гид по выбору и использованию шрифтов",
+        "meta": [
+          "2012",
+          "Jim Williams"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=type+matters+williams"
+          }
+        ],
+        "category": "typography",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=type+matters+williams"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Stop Stealing Sheep & Find Out How Type Works",
+        "title_ru": "Не воруйте овец и узнайте, как работает шрифт",
+        "year": "1993",
+        "desc": "Введение в типографику от Эрика Шпикермана",
+        "meta": [
+          "1993",
+          "Erik Spiekermann"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=stop+stealing+sheep"
+          }
+        ],
+        "category": "typography",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=stop+stealing+sheep"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "ux",
+    "title": "Цифровой и UX/UI",
+    "items": [
+      {
+        "title": "Laws of UX",
+        "title_ru": "Законы UX-дизайна",
+        "year": "2019",
+        "desc": "Психологические законы восприятия, которые помогают делать интерфейсы понятными и человечными.",
+        "meta": [
+          "2019",
+          "Jon Yablonski"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=законы+ux-дизайна+яблонски"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=законы+ux-дизайна+яблонски"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "UX/UI дизайн для создания идеального продукта",
+        "title_ru": "UX/UI дизайн для создания идеального продукта",
+        "year": "2023",
+        "desc": "Авторский подход к проектированию цифровых продуктов, ориентированный на долгосрочную лояльность пользователей.",
+        "meta": [
+          "2023",
+          "Ярослав Шуваев"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=ux+ui+дизайн+идеального+продукта+шуваев"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=ux+ui+дизайн+идеального+продукта+шуваев"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "User Experience Design",
+        "title_ru": "Дизайн пользовательского опыта: Как создать продукт, который ждут",
+        "year": "2020",
+        "desc": "Использование знаний о психологии и поведении людей для создания «ожидаемых» и удобных продуктов.",
+        "meta": [
+          "2020",
+          "John Whalen"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн+пользовательского+опыта+уэлен"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн+пользовательского+опыта+уэлен"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Designing Products People Love",
+        "title_ru": "Как создать продукт, который полюбят",
+        "year": "2016",
+        "desc": "Практический гид по созданию цифровых продуктов, основанный на анализе успешных сервисов.",
+        "meta": [
+          "2016",
+          "Scott Hurff"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=как+создать+продукт+который+полюбят"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=как+создать+продукт+который+полюбят"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Дизайн-мышление. Все инструменты в одной книге",
+        "title_ru": "Дизайн-мышление. Все инструменты в одной книге",
+        "year": "2020",
+        "desc": "Практический обзор инструментов дизайн-мышления на основе более чем 150 кейсов.",
+        "meta": [
+          "2020",
+          "Оливер Кемпкенс"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн-мышление+все+инструменты+в+одной+книге"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн-мышление+все+инструменты+в+одной+книге"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "About Face",
+        "title_ru": "Об интерфейсе",
+        "year": "1995",
+        "desc": "Основы interaction design, personas, goal-directed design",
+        "meta": [
+          "1995",
+          "Alan Cooper"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=об+интерфейсе+купер"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=об+интерфейсе"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=об+интерфейсе+купер"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=об+интерфейсе"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Hooked",
+        "title_ru": "На крючке",
+        "year": "2013",
+        "desc": "Формирование привычек через дизайн, поведенческий дизайн",
+        "meta": [
+          "2013",
+          "Nir Eyal"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=на+крючке+эяль"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=на+крючке"
+          },
+          {
+            "label": "Wildberries",
+            "href": "https://www.wildberries.ru/catalog/0/search.aspx?search=на+крючке"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=на+крючке+эяль"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=на+крючке"
+          },
+          {
+            "label": "Wildberries",
+            "href": "https://www.wildberries.ru/catalog/0/search.aspx?search=на+крючке"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Lean UX",
+        "title_ru": "Бережливый UX",
+        "year": "2013",
+        "desc": "Agile-подход к UX-дизайну, быстрое прототипирование",
+        "meta": [
+          "2013",
+          "Jeff Gothelf, Josh Seiden"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=бережливый+ux"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=бережливый+ux"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=бережливый+ux"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=бережливый+ux"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The User Experience Team of One",
+        "title_ru": "UX-команда из одного человека",
+        "year": "2013",
+        "desc": "Практическое руководство для solo UX-дизайнеров",
+        "meta": [
+          "2013",
+          "Leah Buley"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=ux+команда+одного"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=ux+команда+одного"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Seductive Interaction Design",
+        "title_ru": "Соблазнительный дизайн взаимодействия",
+        "year": "2011",
+        "desc": "Создание привлекательных интерфейсов, эмоциональный дизайн",
+        "meta": [
+          "2011",
+          "Stephen Anderson"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=seductive+interaction+design"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=seductive+interaction+design"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Information Architecture",
+        "title_ru": "Информационная архитектура",
+        "year": "2015",
+        "desc": "Классический учебник по структурированию информации",
+        "meta": [
+          "2015",
+          "Louis Rosenfeld, Peter Morville, Jorge Arango"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=информационная+архитектура"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=информационная+архитектура"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=информационная+архитектура"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=информационная+архитектура"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "visual",
+    "title": "Визуальная культура",
+    "items": [
+      {
+        "title": "How to See",
+        "title_ru": "Как видеть",
+        "year": "2017",
+        "desc": "Книга о том, как дизайн работает как форма коммуникации и как усиливать выразительность объектов.",
+        "meta": [
+          "2017",
+          "George Nelson"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=джордж+нельсон+как+видеть"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=джордж+нельсон+как+видеть"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Steal Like an Artist",
+        "title_ru": "Кради как художник. 10 уроков творческого самовыражения",
+        "year": "2012",
+        "desc": "Лёгкое введение в творческие стратегии: как собирать источники, перерабатывать влияние и находить своё.",
+        "meta": [
+          "2012",
+          "Austin Kleon"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=кради+как+художник"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=кради+как+художник"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Keep Going",
+        "title_ru": "Просто продолжай. 10 способов оставаться креативным в любые времена",
+        "year": "2019",
+        "desc": "Советы о том, как не выгорать и поддерживать творческую практику в долгую.",
+        "meta": [
+          "2019",
+          "Austin Kleon"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=просто+продолжай+остин+клеон"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=просто+продолжай+остин+клеон"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Fundamentals of Data Visualization",
+        "title_ru": "Основы визуализации данных. Пособие по эффективной и убедительной подаче информации",
+        "year": "2019",
+        "desc": "Руководство по выбору графиков, работе с цветом и построению понятной инфографики.",
+        "meta": [
+          "2019",
+          "Claus Wilke"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=основы+визуализации+данных+уилке"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=основы+визуализации+данных+уилке"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Visual Culture",
+        "title_ru": "Визуальная культура",
+        "year": "2003",
+        "desc": "Медиа-исследования, визуальная грамотность, семиотика изображений",
+        "meta": [
+          "2003",
+          "Richard Howells"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=visual+culture+howells"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=visual+culture+howells"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Ways of Seeing",
+        "title_ru": "Искусство видеть",
+        "year": "1972",
+        "desc": "Критика визуальной культуры, восприятие искусства в эпоху репродукции",
+        "meta": [
+          "1972",
+          "John Berger"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=искусство+видеть+берджер"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=искусство+видеть"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=искусство+видеть+берджер"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=искусство+видеть"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Medium is the Massage",
+        "title_ru": "Медиум есть массаж",
+        "year": "1967",
+        "desc": "Теория медиа, влияние коммуникационных технологий на общество",
+        "meta": [
+          "1967",
+          "Marshall McLuhan"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=маклюэн+медиум"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=маклюэн"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=маклюэн+медиум"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=маклюэн"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Understanding Comics",
+        "title_ru": "Понимание комикса",
+        "year": "1993",
+        "desc": "Визуальная коммуникация через призму комиксов",
+        "meta": [
+          "1993",
+          "Scott McCloud"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=понимание+комикса"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=понимание+комикса"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=понимание+комикса"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=понимание+комикса"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Photographer's Eye",
+        "title_ru": "Взгляд фотографа",
+        "year": "2007",
+        "desc": "Композиция в фотографии, визуальное мышление",
+        "meta": [
+          "2007",
+          "Michael Freeman"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=взгляд+фотографа+фриман"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=взгляд+фотографа"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=взгляд+фотографа+фриман"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=взгляд+фотографа"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "fashion",
+    "title": "Фэшн-дизайн",
+    "items": [
+      {
+        "title": "Ornament and Crime",
+        "title_ru": "Орнамент и преступление",
+        "year": "1908",
+        "desc": "Манифест функционализма и критика избыточного декора в архитектуре и предметном дизайне.",
+        "meta": [
+          "1908",
+          "Adolf Loos"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=орнамент+и+преступление+лоос"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=орнамент+и+преступление+лоос"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Почему мужчина должен быть хорошо одет",
+        "title_ru": "Почему мужчина должен быть хорошо одет. Некоторые разоблачения модных облачений",
+        "year": "1920",
+        "desc": "Эссе о мужской моде, респектабельности и визуальных кодах одежды в городской культуре.",
+        "meta": [
+          "1920",
+          "Adolf Loos"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=почему+мужчина+должен+быть+хорошо+одет+лоос"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=почему+мужчина+должен+быть+хорошо+одет+лоос"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Dior by Dior",
+        "title_ru": "Диор о Диоре",
+        "year": "1957",
+        "desc": "Автобиография основателя Дома Dior, философия haute couture",
+        "meta": [
+          "1957",
+          "Christian Dior"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=диор+о+диоре"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=диор+о+диоре"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=диор+о+диоре"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=диор+о+диоре"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Balenciaga",
+        "title_ru": "Баленсиага",
+        "year": "1997",
+        "desc": "Монография о Кристобале Баленсиаге, архитектурность кроя",
+        "meta": [
+          "1997",
+          "Marie-Andrée Jouve"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=баленсиага+жув"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=баленсиага+жув"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The End of Fashion",
+        "title_ru": "Конец моды",
+        "year": "1999",
+        "desc": "Трансформация модной индустрии, массмаркет vs haute couture",
+        "meta": [
+          "1999",
+          "Teri Agins"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=конец+моды+агинс"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=конец+моды+агинс"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Deluxe: How Luxury Lost Its Luster",
+        "title_ru": "Роскошь: Как индустрия потеряла блеск",
+        "year": "2007",
+        "desc": "Критика индустрии люкса, массовое производство vs эксклюзивность",
+        "meta": [
+          "2007",
+          "Dana Thomas"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=dana+thomas+deluxe"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=dana+thomas+deluxe"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Fashion Theory: A Reader",
+        "title_ru": "Теория моды: Антология",
+        "year": "2020",
+        "desc": "Сборник эссе о моде, идентичности, культуре и обществе",
+        "meta": [
+          "2020",
+          "Malcolm Barnard"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=fashion+theory+reader"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=fashion+theory+reader"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The System of Fashion",
+        "title_ru": "Система моды",
+        "year": "1967",
+        "desc": "Семиотический анализ моды, знаки и значения",
+        "meta": [
+          "1967",
+          "Roland Barthes"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=система+моды+барт"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=система+моды"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=система+моды+барт"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=система+моды"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "In Vogue: An Illustrated History of the World's Most Famous Fashion Magazine",
+        "title_ru": "В Vogue: Иллюстрированная история",
+        "year": "2012",
+        "desc": "История журнала Vogue, визуальная культура моды XX века",
+        "meta": [
+          "2012",
+          "Alberto Oliva, Norberto Angeletti"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=in+vogue+illustrated+history"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=in+vogue+illustrated+history"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "speculative",
+    "title": "Спекулятивный дизайн",
+    "items": [
+      {
+        "title": "Speculative Everything",
+        "title_ru": "Спекулятивное всё",
+        "year": "2013",
+        "desc": "Критический и спекулятивный дизайн, дизайн-фикшн, альтернативные будущие",
+        "meta": [
+          "2013",
+          "Anthony Dunne, Fiona Raby"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=speculative+everything"
+          }
+        ],
+        "category": "speculative",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=speculative+everything"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Design for the Real World",
+        "title_ru": "Дизайн для реального мира",
+        "year": "1971",
+        "desc": "Классика о социально ответственном дизайне, экологии и этике проектной деятельности.",
+        "meta": [
+          "1971",
+          "Victor Papanek"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн+для+реального+мира+папанек"
+          }
+        ],
+        "category": "speculative",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн+для+реального+мира+папанек"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Designing Design",
+        "title_ru": "Дизайн дизайна",
+        "year": "2007",
+        "desc": "Японская философия дизайна, emptiness, минимализм и культура",
+        "meta": [
+          "2007",
+          "Kenya Hara"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=дизайн+дизайна+хара"
+          },
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=кения+хара"
+          }
+        ],
+        "category": "speculative",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=дизайн+дизайна+хара"
+        },
+        "sources": [
+          {
+            "label": "ЛитРес",
+            "href": "https://www.litres.ru/search/?q=кения+хара"
+          }
+        ],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "extra",
+    "title": "Дополнительные",
+    "items": [
+      {
+        "title": "Between Enema and Charisma",
+        "title_ru": "Между клизмой и харизмой",
+        "year": "2022",
+        "desc": "Истории о брендах и продуктовых кампаниях в жанре сторителлинга — для вдохновения и насмотренности.",
+        "meta": [
+          "2022",
+          "Самвел Аветисян"
+        ],
+        "links": [
+          {
+            "label": "Ozon",
+            "href": "https://www.ozon.ru/search/?text=между+клизмой+и+харизмой"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "Ozon",
+          "href": "https://www.ozon.ru/search/?text=между+клизмой+и+харизмой"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  }
+]

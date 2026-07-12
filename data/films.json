@@ -1,0 +1,1135 @@
+[
+  {
+    "slug": "must-see",
+    "title": "Must see",
+    "items": [
+      {
+        "title": "Objectified",
+        "title_ru": "Объектифицированный",
+        "year": "2009",
+        "desc": "Индустриальный дизайн, предметный дизайн, история",
+        "meta": [
+          "2009",
+          "Gary Hustwit"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Objectified+Gary+Hustwit"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Objectified+Gary+Hustwit"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Helvetica",
+        "title_ru": "Гельветика",
+        "year": "2007",
+        "desc": "Типографика, графический дизайн, модернизм",
+        "meta": [
+          "2007",
+          "Gary Hustwit"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Helvetica+documentary"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Helvetica+documentary"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Rams",
+        "title_ru": "Рамс",
+        "year": "2018",
+        "desc": "Индустриальный дизайн, дизайн-философия, минимализм",
+        "meta": [
+          "2018",
+          "Gary Hustwit"
+        ],
+        "links": [
+          {
+            "label": "Официальный сайт",
+            "href": "https://www.vhx.tv/products/rams"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Официальный сайт",
+          "href": "https://www.vhx.tv/products/rams"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Abstract: The Art of Design",
+        "title_ru": "Абстракция: Искусство дизайна",
+        "year": "2017",
+        "desc": "Мультидисциплинарный дизайн (графика, иллюстрация, архитектура, UX)",
+        "meta": [
+          "2017",
+          "Netflix"
+        ],
+        "links": [
+          {
+            "label": "Netflix",
+            "href": "https://www.netflix.com/title/80057883"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Netflix",
+          "href": "https://www.netflix.com/title/80057883"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Social Dilemma",
+        "title_ru": "Социальная дилемма",
+        "year": "2020",
+        "desc": "UX/UI, этика дизайна, тёмные паттерны, поведенческий дизайн",
+        "meta": [
+          "2020",
+          "Netflix"
+        ],
+        "links": [
+          {
+            "label": "Netflix",
+            "href": "https://www.netflix.com/title/81254224"
+          }
+        ],
+        "category": "must-see",
+        "primary": {
+          "label": "Netflix",
+          "href": "https://www.netflix.com/title/81254224"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "history",
+    "title": "История и теория",
+    "items": [
+      {
+        "title": "BBC: The Genius of Design",
+        "title_ru": "Гений дизайна",
+        "year": "2010",
+        "desc": "История промышленного дизайна, Баухаус, модернизм, постмодернизм",
+        "meta": [
+          "2010",
+          "BBC"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=The+Genius+of+Design+BBC"
+          }
+        ],
+        "category": "history",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=The+Genius+of+Design+BBC"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Bauhaus: 100 years of Bauhaus",
+        "title_ru": "Баухаус: 100 лет Баухаусу",
+        "year": "2019",
+        "desc": "Наследие Баухауза, связь искусства, ремесла и технологий",
+        "meta": [
+          "2019"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=100+years+of+Bauhaus"
+          }
+        ],
+        "category": "history",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=100+years+of+Bauhaus"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "graphic",
+    "title": "Графический дизайн",
+    "items": [
+      {
+        "title": "Milton Glaser: To Inform and Delight",
+        "title_ru": "Милтон Глейзер: Информировать и радовать",
+        "year": "2008",
+        "desc": "Графический дизайн, визуальная коммуникация, иконография",
+        "meta": [
+          "2008"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Milton+Glaser+To+Inform"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Milton+Glaser+To+Inform"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Design Is One: Lella and Massimo Vignelli",
+        "title_ru": "Дизайн — это одно: Лелла и Массимо Виньелли",
+        "year": "2012",
+        "desc": "Международный стиль, сдержанность, модульные системы",
+        "meta": [
+          "2012"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Design+Is+One+Vignelli"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Design+Is+One+Vignelli"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Art & Copy",
+        "title_ru": "Искусство и копирайтинг",
+        "year": "2009",
+        "desc": "Реклама, брендинг, креативная индустрия",
+        "meta": [
+          "2009"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Art+Copy+documentary"
+          }
+        ],
+        "category": "graphic",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Art+Copy+documentary"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "branding",
+    "title": "Брендинг и реклама",
+    "items": [
+      {
+        "title": "Building a Brand",
+        "title_ru": "Создавая бренд",
+        "year": "2020",
+        "desc": "Серия о ребрендинге пивоварни: позиционирование, айдентика, упаковка и запуск обновлённого бренда.",
+        "meta": [
+          "2020",
+          "The Futur"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/watch?v=UDTCC-uyJF0"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/watch?v=UDTCC-uyJF0"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The September Issue",
+        "title_ru": "Сентябрьский номер",
+        "year": "2009",
+        "desc": "Как бренд Vogue строит визуальный образ модной индустрии через флагманский номер журнала.",
+        "meta": [
+          "2009",
+          "R.J. Cutler"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The True Cost",
+        "title_ru": "Настоящая цена",
+        "year": "2015",
+        "desc": "Критический взгляд на фаст‑фэшн и ответственность брендов за социальные и экологические последствия.",
+        "meta": [
+          "2015",
+          "Andrew Morgan"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=The+True+Cost"
+          }
+        ],
+        "category": "branding",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=The+True+Cost"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "industrial",
+    "title": "Индустриальный дизайн",
+    "items": [
+      {
+        "title": "Eames: The Architect and the Painter",
+        "title_ru": "Имзы: Архитектор и художник",
+        "year": "2011",
+        "desc": "Мебельный дизайн, эксперименты с материалами, кино",
+        "meta": [
+          "2011"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Eames+Architect+Painter"
+          }
+        ],
+        "category": "industrial",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Eames+Architect+Painter"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Urbanized",
+        "title_ru": "Урбанизация",
+        "year": "2011",
+        "desc": "Городское планирование, дизайн городов, публичное пространство",
+        "meta": [
+          "2011",
+          "Gary Hustwit"
+        ],
+        "links": [
+          {
+            "label": "Официальный сайт",
+            "href": "https://www.urbanizedfilm.com/"
+          }
+        ],
+        "category": "industrial",
+        "primary": {
+          "label": "Официальный сайт",
+          "href": "https://www.urbanizedfilm.com/"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "ux",
+    "title": "Цифровой и UX/UI",
+    "items": [
+      {
+        "title": "Minority Report",
+        "title_ru": "Особое мнение",
+        "year": "2002",
+        "desc": "Спекулятивный UI, жестовые интерфейсы",
+        "meta": [
+          "2002",
+          "Steven Spielberg"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Her",
+        "title_ru": "Она",
+        "year": "2013",
+        "desc": "Голосовые интерфейсы, эмоциональный AI",
+        "meta": [
+          "2013",
+          "Spike Jonze"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Indie Game: The Movie",
+        "title_ru": "Инди-игра: Кино",
+        "year": "2012",
+        "desc": "Геймдизайн как UX-проект, нарратив, визуал",
+        "meta": [
+          "2012"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Indie+Game+Movie"
+          }
+        ],
+        "category": "ux",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Indie+Game+Movie"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "social",
+    "title": "Социальный дизайн",
+    "items": [
+      {
+        "title": "Design Canada",
+        "title_ru": "Дизайн Канады",
+        "year": "2018",
+        "desc": "Дизайн и общество, национальная идентичность",
+        "meta": [
+          "2018"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Design+Canada"
+          }
+        ],
+        "category": "social",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Design+Canada"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Style Wars",
+        "title_ru": "Войны стилей",
+        "year": "1983",
+        "desc": "Граффити, городское пространство, визуальная коммуникация",
+        "meta": [
+          "1983"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Style+Wars+1983"
+          }
+        ],
+        "category": "social",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Style+Wars+1983"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "visual",
+    "title": "Визуальная культура",
+    "items": [
+      {
+        "title": "Drew: The Man Behind the Poster",
+        "title_ru": "Дрю: Человек за постером",
+        "year": "2013",
+        "desc": "Постер-арт, визуальная культура кино",
+        "meta": [
+          "2013"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Drew+Man+Behind+Poster"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Drew+Man+Behind+Poster"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Just Like Being There",
+        "title_ru": "Как будто ты там",
+        "year": "2012",
+        "desc": "Концертные афиши, фанатские визуальные культуры",
+        "meta": [
+          "2012"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Just+Like+Being+There+2012"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Just+Like+Being+There+2012"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Exit Through the Gift Shop",
+        "title_ru": "Выход через сувенирную лавку",
+        "year": "2010",
+        "desc": "Стрит-арт, коммерциализация визуального",
+        "meta": [
+          "2010",
+          "Banksy"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "visual",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "fashion",
+    "title": "Фэшн-дизайн",
+    "items": [
+      {
+        "title": "Bill Cunningham New York",
+        "title_ru": "Билл Каннингем Нью-Йорк",
+        "year": "2010",
+        "desc": "Мода как культурный документ, уличная мода, фотожурналистика",
+        "meta": [
+          "2010",
+          "Richard Press"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Dior and I",
+        "title_ru": "Диор и я",
+        "year": "2014",
+        "desc": "Закулисье Дома Dior, создание haute couture коллекции",
+        "meta": [
+          "2014",
+          "Frédéric Tcheng"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Her Dior",
+        "title_ru": "Её Диор",
+        "year": "2025",
+        "desc": "Современная стратегия Dior, феминистская оптика, коллаборации с художницами",
+        "meta": [
+          "2025",
+          "Loïc Prigent"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Her+Dior+Prigent"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Her+Dior+Prigent"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Haute Couture: The Great Designers",
+        "title_ru": "Высокая мода: великие дизайнеры",
+        "year": "2007",
+        "desc": "Портреты кутюрье (Dior, Chanel, YSL), развитие haute couture",
+        "meta": [
+          "2007",
+          "BBC"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Haute+Couture+Great+Designers+BBC"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Haute+Couture+Great+Designers+BBC"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Cristóbal Balenciaga (сериал)",
+        "title_ru": "Кристобаль Баленсиага",
+        "year": "2024",
+        "desc": "Эволюция Баленсиаги, формообразование, архитектурность силуэта",
+        "meta": [
+          "2024",
+          "Disney+"
+        ],
+        "links": [
+          {
+            "label": "Disney+",
+            "href": "https://www.disneyplus.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Disney+",
+          "href": "https://www.disneyplus.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Supermodels",
+        "title_ru": "Супермодели",
+        "year": "2023",
+        "desc": "Карьеры четырёх супермоделей 80-90х (Наоми Кэмпбелл, Синди Кроуфорд, Линда Евангелиста, Кристи Тарлингтон)",
+        "meta": [
+          "2023",
+          "Apple TV+"
+        ],
+        "links": [
+          {
+            "label": "Apple TV+",
+            "href": "https://tv.apple.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Apple TV+",
+          "href": "https://tv.apple.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "High & Low: John Galliano",
+        "title_ru": "Взлёт и падение: Джон Гальяно",
+        "year": "2024",
+        "desc": "Карьера и скандал Джона Гальяно, давление индустрии моды",
+        "meta": [
+          "2024",
+          "Kevin Macdonald"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Westwood: Punk. Icon. Activist",
+        "title_ru": "Вествуд: Панк. Икона. Активист",
+        "year": "2018",
+        "desc": "Эволюция Вивьен Вествуд от панк-провокатора до модной иконы",
+        "meta": [
+          "2018",
+          "Lorna Tucker"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Jeremy Scott: The People's Designer",
+        "title_ru": "Джереми Скотт: Народный дизайнер",
+        "year": "2015",
+        "desc": "Смелый дизайн Джереми Скотта, подготовка к решающему показу",
+        "meta": [
+          "2015"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Manolo: The Boy Who Made Shoes for Lizards",
+        "title_ru": "Маноло: Мальчик, который шил туфли для ящериц",
+        "year": "2017",
+        "desc": "Биография обувного дизайнера Маноло Бланика",
+        "meta": [
+          "2017",
+          "Michael Roberts"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "7 Days Out: Chanel Haute Couture",
+        "title_ru": "7 дней: Chanel Haute Couture",
+        "year": "2018",
+        "desc": "Закулисье подготовки коллекции Chanel haute couture",
+        "meta": [
+          "2018",
+          "Netflix"
+        ],
+        "links": [
+          {
+            "label": "Netflix",
+            "href": "https://www.netflix.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "Netflix",
+          "href": "https://www.netflix.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Paris is Burning",
+        "title_ru": "Париж в огне",
+        "year": "1990",
+        "desc": "Бальная культура Нью-Йорка, самовыражение через одежду, драг-культура",
+        "meta": [
+          "1990",
+          "Jennie Livingston"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "McQueen",
+        "title_ru": "МакКуин",
+        "year": "2018",
+        "desc": "Жизнь и карьера Александра МакКуина, гений и трагедия",
+        "meta": [
+          "2018",
+          "Ian Bonhôte, Peter Ettedgui"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "fashion",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "extra",
+    "title": "Дополнительные",
+    "items": [
+      {
+        "title": "Yves Saint Laurent",
+        "title_ru": "Ив Сен-Лоран",
+        "year": "2014",
+        "desc": "Биография Ива Сен-Лорана, формирование стиля",
+        "meta": [
+          "2014",
+          "Jalil Lespert"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Saint Laurent",
+        "title_ru": "Сен-Лоран",
+        "year": "2014",
+        "desc": "Авторский взгляд на карьеру Сен-Лорана, визуальный язык моды 1960–1970-х",
+        "meta": [
+          "2014",
+          "Bertrand Bonello"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Coco avant Chanel",
+        "title_ru": "Коко до Шанель",
+        "year": "2009",
+        "desc": "Ранний этап жизни Коко Шанель, рождение современного женского силуэта",
+        "meta": [
+          "2009",
+          "Anne Fontaine"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Phantom Thread",
+        "title_ru": "Призрачная нить",
+        "year": "2017",
+        "desc": "Фиктивный дом высокой моды 1950-х, психология кутюрье",
+        "meta": [
+          "2017",
+          "Paul Thomas Anderson"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The Devil Wears Prada",
+        "title_ru": "Дьявол носит Prada",
+        "year": "2006",
+        "desc": "Мир модной журналистики, культура глянца",
+        "meta": [
+          "2006",
+          "David Frankel"
+        ],
+        "links": [
+          {
+            "label": "JustWatch",
+            "href": "https://www.justwatch.com"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "JustWatch",
+          "href": "https://www.justwatch.com"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  },
+  {
+    "slug": "extra",
+    "title": "Дополнительные",
+    "items": [
+      {
+        "title": "Why Man Creates",
+        "title_ru": "Почему человек творит",
+        "year": "1968",
+        "desc": "Креативность, визуальная коммуникация, анимация",
+        "meta": [
+          "1968",
+          "Saul Bass"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Why+Man+Creates+Saul+Bass"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Why+Man+Creates+Saul+Bass"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "The City Dark",
+        "title_ru": "Тёмный город",
+        "year": "2011",
+        "desc": "Световой дизайн, городская среда, экология",
+        "meta": [
+          "2011"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=The+City+Dark"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=The+City+Dark"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Eames: Powers of Ten",
+        "title_ru": "Имзы: Степени десяти",
+        "year": "1977",
+        "desc": "Визуализация масштаба, инфографика, научная коммуникация",
+        "meta": [
+          "1977",
+          "Charles & Ray Eames"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/watch?v=0fKBhvDjuy0"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/watch?v=0fKBhvDjuy0"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      },
+      {
+        "title": "Konstantin Grcic – Design Is Work",
+        "title_ru": "Константин Грчич – Дизайн это работа",
+        "year": "2012",
+        "desc": "Промышленный дизайн, студийная практика, процесс",
+        "meta": [
+          "2012"
+        ],
+        "links": [
+          {
+            "label": "YouTube",
+            "href": "https://www.youtube.com/results?search_query=Konstantin+Grcic+Design+Is+Work"
+          }
+        ],
+        "category": "extra",
+        "primary": {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/results?search_query=Konstantin+Grcic+Design+Is+Work"
+        },
+        "sources": [],
+        "platforms": [],
+        "free": false
+      }
+    ]
+  }
+]
